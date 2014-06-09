@@ -8,6 +8,7 @@ SUSHIYUKI emotion stickers for engineers!
 40個作成できたら LINE スタンプとして申請しますが、個々の素材は CC BY-NC-ND 4.0 で利用可能にします。
 
 ##作成予定
+希望があれば、以下に内容を入れて Pull Request ください！
 - 01 : LGTM  (Looks Good To Me)
 - 02 : WIP   (Work In Progress)
 - 03 : TODO
