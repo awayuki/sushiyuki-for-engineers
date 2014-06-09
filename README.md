@@ -22,9 +22,9 @@ SUSHIYUKI emotion stickers for engineers!
 - 11 : Passed
 - 12 : Failed
 - 13 : Pending
-- 14 : 
-- 15 : 
-- 16 : 
+- 14 : (reserved)
+- 15 : (reserved)
+- 16 : (reserved)
 - 17 : 
 - 18 : 
 - 19 : 
