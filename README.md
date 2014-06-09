@@ -24,7 +24,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 13 : Pending
 - 14 : (reserved)
 - 15 : (reserved)
-- 16 : (reserved)
+- 16 : RELEASE!!
 - 17 : 
 - 18 : 
 - 19 : 
