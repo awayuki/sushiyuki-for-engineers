@@ -19,9 +19,9 @@ SUSHIYUKI emotion stickers for engineers!
 - 08 : oops! (細かいミスを教えてもらった時 ありがとう！のニュアンス含む) by [vvakame](https://github.com/vvakame)
 - 09 : STFUAWSC (Shut the fuck up and write some code)
 - 10 : TMTOWTDI (There's more than one way to do it)
-- 11 : 
-- 12 : 
-- 13 : 
+- 11 : Passed
+- 12 : Failed
+- 13 : Pending
 - 14 : 
 - 15 : 
 - 16 : 
