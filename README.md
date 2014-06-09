@@ -27,7 +27,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 16 : RELEASE!!
 - 17 : shipit (:shipit:)
 - 18 :
-- 19 :
+- 19 : MOHICAN
 - 20 :
 - 21 :
 - 22 :
