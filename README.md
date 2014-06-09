@@ -28,7 +28,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 17 : shipit (:shipit:)
 - 18 :
 - 19 :
-- 20 :
+- 20 : DIY (Do It Yourself)
 - 21 :
 - 22 :
 - 23 :
