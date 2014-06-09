@@ -16,7 +16,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 05 : NOTE
 - 06 : TBD   (To Be Determined)
 - 07 : TL;DR (To Long; Didn't Read)
-- 08 : 
+- 08 : oops! (細かいミスを教えてもらった時 ありがとう！のニュアンス含む) by [vvakame](https://github.com/vvakame)
 - 09 : 
 - 10 : 
 - 11 : 
