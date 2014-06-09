@@ -17,8 +17,8 @@ SUSHIYUKI emotion stickers for engineers!
 - 06 : TBD   (To Be Determined)
 - 07 : TL;DR (To Long; Didn't Read)
 - 08 : oops! (細かいミスを教えてもらった時 ありがとう！のニュアンス含む) by [vvakame](https://github.com/vvakame)
-- 09 : 
-- 10 : 
+- 09 : STFUAWSC (Shut the fuck up and write some code)
+- 10 : TMTOWTDI (There's more than one way to do it)
 - 11 : 
 - 12 : 
 - 13 : 
