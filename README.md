@@ -43,7 +43,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 32 :
 - 33 :
 - 34 :
-- 35 :
+- 35 : Thanks!
 - 36 :
 - 37 :
 - 38 :
