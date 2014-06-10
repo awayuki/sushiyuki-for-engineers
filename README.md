@@ -26,7 +26,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 17 : shipit (:shipit:)
 - 18 : PTAL  (Please take a look)
 - 19 : done
-- 20 :
+- 20 : DIY   (Do It Yourself)
 - 21 :
 - 22 :
 - 23 :
