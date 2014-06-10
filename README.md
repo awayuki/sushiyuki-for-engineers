@@ -33,7 +33,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 24 : RTFM (Read The Fucking Manual)
 - 25 : FYI (Fix Your Information)
 - 26 : By design
-- 27 :
+- 27 : One more thing
 - 28 :
 - 29 :
 - 30 :
