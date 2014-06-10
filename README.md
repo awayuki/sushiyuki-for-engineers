@@ -28,9 +28,9 @@ SUSHIYUKI emotion stickers for engineers!
 - 19 : done
 - 20 : DIY   (Do It Yourself)
 - 21 : MOHICAN (モヒカン族のような風貌のお寿司)
-- 22 :
-- 23 :
-- 24 :
+- 22 : KISS (Keep it simple, stupid)
+- 23 : DRY (Don't Repeat Yourself)
+- 24 : RTFM (Read The Fucking Manual)
 - 25 :
 - 26 :
 - 27 :
