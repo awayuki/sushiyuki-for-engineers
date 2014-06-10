@@ -34,8 +34,8 @@ SUSHIYUKI emotion stickers for engineers!
 - 25 : FYI (For Your Information)
 - 26 : By design
 - 27 : One more thing
-- 28 :
-- 29 :
+- 28 : ACK (Acknowledgement)
+- 29 : NACK (Negative Acknowledgement)
 - 30 :
 - 31 :
 - 32 :
