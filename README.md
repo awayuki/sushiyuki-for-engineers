@@ -22,6 +22,8 @@ SUSHIYUKI emotion stickers for engineers!
 - 11 : Passed
 - 12 : Failed
 - 13 : Pending
+- 14 : +1 ( :+1: )
+- 15 : -1 ( :-1: )
 - 16 : RELEASE!!
 - 17 : shipit (:shipit:)
 - 18 : PTAL  (Please take a look)
