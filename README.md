@@ -27,7 +27,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 18 : PTAL  (Please take a look)
 - 19 : done
 - 20 : DIY   (Do It Yourself)
-- 21 : MOHICAN
+- 21 : MOHICAN (モヒカン族のような風貌のお寿司)
 - 22 :
 - 23 :
 - 24 :
