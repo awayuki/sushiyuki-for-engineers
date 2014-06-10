@@ -38,11 +38,11 @@ SUSHIYUKI emotion stickers for engineers!
 - 27 : One more thing
 - 28 : ACK (Acknowledgement)
 - 29 : NACK (Negative Acknowledgement)
-- 30 :
-- 31 :
-- 32 :
-- 33 :
-- 34 :
+- 30 : HTH (happy to help)
+- 31 : ETA (estimated time of arrival)
+- 32 : UTSL (Use the source, Luke)
+- 33 : RFC (Request for comments)
+- 34 : np (no problem)
 - 35 :
 - 36 :
 - 37 :
