@@ -32,7 +32,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 23 : DRY (Don't Repeat Yourself)
 - 24 : RTFM (Read The Fucking Manual)
 - 25 : FYI (Fix Your Information)
-- 26 :
+- 26 : By design
 - 27 :
 - 28 :
 - 29 :
