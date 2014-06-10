@@ -48,4 +48,4 @@ SUSHIYUKI emotion stickers for engineers!
 - 37 :
 - 38 :
 - 39 :
-- 40 :
+- 40 : TGIF (Thank God, It's Friday)
