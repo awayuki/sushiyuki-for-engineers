@@ -31,7 +31,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 22 : KISS (Keep it simple, stupid)
 - 23 : DRY (Don't Repeat Yourself)
 - 24 : RTFM (Read The Fucking Manual)
-- 25 :
+- 25 : FYI (Fix Your Information)
 - 26 :
 - 27 :
 - 28 :
