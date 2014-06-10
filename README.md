@@ -38,14 +38,14 @@ SUSHIYUKI emotion stickers for engineers!
 - 27 : One more thing
 - 28 : ACK (Acknowledgement)
 - 29 : NACK (Negative Acknowledgement)
-- 30 :
-- 31 :
-- 32 :
-- 33 :
-- 34 :
-- 35 :
-- 36 :
-- 37 :
+- 30 : valid
+- 31 : invalid
+- 32 : MUST (～しなければならない)
+- 33 : SHOULD (～すべき)
+- 34 : MUST NOT (～してはならない)
+- 35 : SHOULD NOT (～すべきではない)
+- 36 : MAY (～してもよい)
+- 37 : Typo (typographical error)
 - 38 :
-- 39 :
-- 40 :
+- 39 : 進捗どうですか
+- 40 : 進捗ダメです
