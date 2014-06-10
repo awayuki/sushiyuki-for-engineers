@@ -34,7 +34,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 23 :
 - 24 :
 - 25 :
-- 26 :
+- 26 : By design
 - 27 :
 - 28 :
 - 29 :
