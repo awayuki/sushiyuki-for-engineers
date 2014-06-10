@@ -45,7 +45,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 34 :
 - 35 :
 - 36 :
-- 37 :
+- 37 :Cow say (:cow:)
 - 38 :
 - 39 :
 - 40 :
