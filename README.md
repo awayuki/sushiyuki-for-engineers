@@ -29,7 +29,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 18 :
 - 19 :
 - 20 :
-- 21 :
+- 21 : One more thing
 - 22 :
 - 23 :
 - 24 :
