@@ -38,7 +38,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 27 : One more thing
 - 28 : ACK (Acknowledgement)
 - 29 : NACK (Negative Acknowledgement)
-- 30 :
+- 30 : Thanks!
 - 31 :
 - 32 :
 - 33 :
