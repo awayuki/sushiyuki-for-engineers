@@ -46,6 +46,13 @@ SUSHIYUKI emotion stickers for engineers!
 - 35 : Cool!
 - 36 : Ping
 - 37 : Pong
-- 38 :
-- 39 :
-- 40 :
+- 38 : valid
+- 39 : invalid
+- 40 : MUST (～しなければならない)
+- (41) : SHOULD (～すべき)
+- (42) : MUST NOT (～してはならない)
+- (43) : SHOULD NOT (～すべきではない)
+- (44) : MAY (～してもよい)
+- (45) : Typo (typographical error)
+- (46) : 進捗どうですか
+- (47) : 進捗ダメです
