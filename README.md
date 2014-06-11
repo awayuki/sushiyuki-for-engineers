@@ -43,7 +43,7 @@ SUSHIYUKI emotion stickers for engineers!
 - 32 : UTSL (Use the source, Luke)
 - 33 : RFC (Request for comments)
 - 34 : np (no problem)
-- 35 :
+- 35 : Cool!
 - 36 :
 - 37 :
 - 38 :
