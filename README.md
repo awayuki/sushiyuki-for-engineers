@@ -44,8 +44,8 @@ SUSHIYUKI emotion stickers for engineers!
 - 33 : RFC (Request for comments)
 - 34 : np (no problem)
 - 35 : Cool!
-- 36 :
-- 37 :
-- 38 : Ping
+- 36 : Ping
+- 37 : Pong
+- 38 :
 - 39 :
 - 40 :
