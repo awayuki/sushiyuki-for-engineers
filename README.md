@@ -9,7 +9,9 @@ SUSHIYUKI emotion stickers for engineers!
 
 ##作成予定
 （Pull Request と Issue で40個を超えたので、いったん受け付けを終わります）
-挙げていただいたものの中から整理して40個に納めたいと思います。
+
+挙げていただいたものとIssueで挙がっている中から整理して、40個に納めます。
+
 - 01 : LGTM  (Looks Good To Me)
 - 02 : WIP   (Work In Progress)
 - 03 : TODO
