@@ -7,7 +7,7 @@ SUSHIYUKI emotion stickers for engineers!
 
 40個作成できたら LINE スタンプとして申請しますが、個々の素材は CC BY-NC-ND 4.0 で利用可能にします。
 
-##作成予定
+## 作成予定
 （Pull Request と Issue で40個を超えたので、いったん受け付けを終わります）
 
 挙げていただいたものとIssueで挙がっている中から整理して、40個に納めます。
